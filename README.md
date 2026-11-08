@@ -15,7 +15,7 @@ This guide provides step-by-step instructions to set up the machine learning env
 Click the badge below (or the one at the top of this page). After a short wait a JupyterLab
 session opens in your browser with every package this book needs already installed.
 
-[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IDEALLab/ML4ME_Textbook/main?urlpath=lab/tree/part1)
+<!-- [![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IDEALLab/ML4ME_Textbook/main?urlpath=lab/tree/part1) -->
 
 1. **Click the badge.** The first launch after a repository update can take several minutes while
    the environment builds. Later launches usually take under a minute.
